@@ -138,6 +138,16 @@ public class GarnishedTabs {
 			output.accept(GarnishedItems.CHOCOLATE_GLAZED_CHESTNUT.asStack());
 			output.accept(GarnishedItems.HONEYED_CHESTNUT.asStack());
 
+			output.accept(GarnishedItems.STICKY_CASHEW.asStack());
+			output.accept(GarnishedItems.STICKY_WALNUT.asStack());
+			output.accept(GarnishedItems.STICKY_ALMOND.asStack());
+			output.accept(GarnishedItems.STICKY_PECAN.asStack());
+			output.accept(GarnishedItems.STICKY_PISTACHIO.asStack());
+			output.accept(GarnishedItems.STICKY_MACADAMIA.asStack());
+			output.accept(GarnishedItems.STICKY_BUHG.asStack());
+			output.accept(GarnishedItems.STICKY_HAZELNUT.asStack());
+			output.accept(GarnishedItems.STICKY_CHESTNUT.asStack());
+
 			output.accept(GarnishedItems.NUT_MIX.asStack());
 			output.accept(GarnishedItems.SWEETENED_NUT_MIX.asStack());
 			output.accept(GarnishedItems.CHOCOLATE_GLAZED_NUT_MIX.asStack());

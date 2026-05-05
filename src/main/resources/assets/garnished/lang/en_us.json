@@ -69,6 +69,7 @@
   "item.garnished.cracked_cashew": "Cracked Cashew",
   "item.garnished.cinder_cashew_speed": "Hadean Cashew",
   "item.garnished.honeyed_cashew": "Honeyed Cashew",
+  "item.garnished.sticky_cashew": "Sticky Cashew",
   "item.garnished.chocolate_glazed_cashew": "Chocolate Glazed Cashew",
 
   "item.garnished.walnut": "Garnished Walnut",
@@ -80,6 +81,7 @@
   "item.garnished.cracked_walnut": "Cracked Walnut",
   "item.garnished.cinder_walnut_strength": "Hadean Walnut",
   "item.garnished.honeyed_walnut": "Honeyed Walnut",
+  "item.garnished.sticky_walnut": "Sticky Walnut",
   "item.garnished.chocolate_glazed_walnut": "Chocolate Glazed Walnut",
 
   "item.garnished.almond": "Garnished Almond",
@@ -91,6 +93,7 @@
   "item.garnished.cracked_almond": "Cracked Almond",
   "item.garnished.cinder_almond_haste": "Hadean Almond",
   "item.garnished.honeyed_almond": "Honeyed Almond",
+  "item.garnished.sticky_almond": "Sticky Almond",
   "item.garnished.chocolate_glazed_almond": "Chocolate Glazed Almond",
 
   "item.garnished.pecan": "Garnished Pecan",
@@ -102,6 +105,7 @@
   "item.garnished.cracked_pecan": "Cracked Pecan",
   "item.garnished.cinder_pecan_resistance": "Hadean Pecan",
   "item.garnished.honeyed_pecan": "Honeyed Pecan",
+  "item.garnished.sticky_pecan": "Sticky Pecan",
   "item.garnished.chocolate_glazed_pecan": "Chocolate Glazed Pecan",
 
   "item.garnished.pistachio": "Garnished Pistachio",
@@ -113,6 +117,7 @@
   "item.garnished.cracked_pistachio": "Cracked Pistachio",
   "item.garnished.cinder_pistachio_night_vision": "Hadean Pistachio",
   "item.garnished.honeyed_pistachio": "Honeyed Pistachio",
+  "item.garnished.sticky_pistachio": "Sticky Pistachio",
   "item.garnished.chocolate_glazed_pistachio": "Chocolate Glazed Pistachio",
 
   "item.garnished.macadamia": "Garnished Macadamia",
@@ -124,6 +129,7 @@
   "item.garnished.cracked_macadamia": "Cracked Macadamia",
   "item.garnished.cinder_macadamia_fire_resistance": "Hadean Macadamia",
   "item.garnished.honeyed_macadamia": "Honeyed Macadamia",
+  "item.garnished.sticky_macadamia": "Sticky Macadamia",
   "item.garnished.chocolate_glazed_macadamia": "Chocolate Glazed Macadamia",
 
   "item.garnished.peanut": "Garnished Peanut",
@@ -135,6 +141,7 @@
   "item.garnished.cracked_peanut": "Cracked Peanut",
   "item.garnished.cinder_peanut_effect": "Hadean Peanut",
   "item.garnished.honeyed_peanut": "Honeyed Peanut",
+  "item.garnished.sticky_peanut": "Sticky Peanut",
   "item.garnished.chocolate_glazed_peanut": "Chocolate Glazed Peanut",
 
   "item.garnished.hazelnut": "Garnished Hazelnut",
@@ -146,6 +153,7 @@
   "item.garnished.cracked_hazelnut": "Cracked Hazelnut",
   "item.garnished.cinder_hazelnut_speed_potent": "Hadean Hazelnut",
   "item.garnished.honeyed_hazelnut": "Honeyed Hazelnut",
+  "item.garnished.sticky_hezelnut": "Sticky Hazelnut",
   "item.garnished.chocolate_glazed_hazelnut": "Chocolate Glazed Hazelnut",
 
   "item.garnished.chestnut": "Garnished Chestnut",
@@ -157,6 +165,7 @@
   "item.garnished.cracked_chestnut": "Cracked Chestnut",
   "item.garnished.cinder_chestnut_slow_falling": "Hadean Chestnut",
   "item.garnished.honeyed_chestnut": "Honeyed Chestnut",
+  "item.garnished.sticky_chestnut": "Sticky Chestnut",
   "item.garnished.chocolate_glazed_chestnut": "Chocolate Glazed Chestnut",
 
   "item.garnished.garnished_sweet_berries": "Garnished Sweet Berries",
